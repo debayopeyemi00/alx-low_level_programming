@@ -15,7 +15,8 @@ for (ten = (hundred + 1); ten <= '9'; ten++)/* prints ten*/
 for (one = (ten + 1); one <= '9'; one++)
 {
 putchar(hundred);
-putchar(ten);putchar(one);
+putchar(ten);
+putchar(one);
 if(hundred != '7' || ten != '8' || one != '9')
 {
 putchar(',');
