@@ -10,7 +10,7 @@ int ten;
 int hundred;
 for (hundred  = '0'; hundred <= '9'; hundred++)/*prints hundred*/
 {
-for (ten = (hundred + 1); ten<= '9'; ten++)/* prints ten*/
+for (ten = (hundred + 1); ten <= '9'; ten++)/* prints ten*/
 {
 for (one = (ten + 1); one <= '9'; one++)
 {
