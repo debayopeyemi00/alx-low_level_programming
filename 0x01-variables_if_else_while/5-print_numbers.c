@@ -11,6 +11,6 @@ while (n < 10)
 printf("%i", n);
 n++;
 }
-putchar(n);
+putchar('\n');
 return (0);
 }
