@@ -1,4 +1,4 @@
-#include "main.h"
+#include <studio.h>
 /**
 *print_alphabet - prints a-z
 *Return: Nothing
