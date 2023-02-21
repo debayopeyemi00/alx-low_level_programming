@@ -1,15 +1,11 @@
-#include <stdio.h>
+#include "main.h"
 /**
-*print_alphabet - prints a-z
-*Return: 0 on success
-*\
+* main - prints alphabet a-z.
+*
+* Return: 0 on success.
+*/
 int main(void)
 {
-char c;
-for (c = 'a'; c <= 'z'; c++)
-{
-_putchar(c);
-}
-_putchar('\n');
+print_alphabet();
 return (0);
 }
