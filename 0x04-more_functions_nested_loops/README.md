@@ -1,1 +1,1 @@
-0. isupper: checks if a letter is upper or not
+1. isdigit: checks for character that is digit or not
