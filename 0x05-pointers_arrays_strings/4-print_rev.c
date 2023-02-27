@@ -16,5 +16,5 @@ for (c -= 1; c >= 0; c--)
 {
 _putchar(s[c]);
 }
-_putchar(n);
+_putchar('\n');
 }
