@@ -19,6 +19,6 @@ dest[dlen] = src[j];
 dlen++;
 j++;
 }
-dest[dlen + n + 1] = 0;
+dest[dlen + n + 1] = '\0';
 return (dest);
 }
