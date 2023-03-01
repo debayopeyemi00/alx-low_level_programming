@@ -20,7 +20,7 @@ a++;
 }
 while (a < n)
 {
-dest[a] = 0;
+dest[a] = '\0';
 a++;
 }
 return (dest);
